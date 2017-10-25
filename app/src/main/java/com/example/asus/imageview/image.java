@@ -16,11 +16,7 @@ import android.util.AttributeSet;
 import android.widget.ImageView;
 
 
-/**
- * 创建时间  2017/9/22 20:39
- * 创建人    gaozhijie
- * 类描述
- */
+
 public class image extends ImageView{
 
     private Paint paint ;
